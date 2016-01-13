@@ -1,6 +1,6 @@
 language: python
 
-build_image: vidyar/phpmongo:master.69.1
+build_image: siddarthan/docker-build-nodejs
 
 
 python:
